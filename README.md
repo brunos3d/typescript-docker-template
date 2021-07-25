@@ -10,9 +10,9 @@
     <img alt="GitHub buttons" src="./.github/gh-buttons.png" />
   </a>
 </p>
-<h1 align="center">
+<p align="center">
   Click on the "Use this template" button
-</h1>
+</p>
 
 #### 1.b. Clone project
 
